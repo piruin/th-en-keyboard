@@ -91,7 +91,7 @@ Mapping character on Thai keyboard layout (Kedmanee) to English Layout
 |`์`| `N`|
 |`ท`| `m`|
 |`?`| `M`|
-|`ม`| `|`|
+|`ม`| `,`|
 |`ฒ`| `<`|
 |`ใ`| `.`|
 |`ฬ`| `>`|
